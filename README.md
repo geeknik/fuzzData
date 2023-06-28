@@ -1,3 +1,7 @@
+<h1>Mozilla will be removing this repository soon.</h1>
+<P><B>We are transitioning to <a href="https://github.com/MozillaSecurity/corpus-replicator">corpus-replicator</a>, which will be easier for us to use and maintain. More information about the removal can be found in issue <a href="https://github.com/MozillaSecurity/fuzzdata/issues/11">#11</a></B></P>
+
+<HR>
 <p align="center">
   <img src="https://github.com/posidron/posidron.github.io/raw/master/static/images/fuzzdata.png" alt="Logo" />
 </p>
